@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: eb41e043d27e3f444b0ff9032ab05e5a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder
+    100004: Cylinder_001
+    100006: Null_Object1_Null_Object_Cylinder
+    100008: Null_Object1_Null_Object_Cylinder1
+    100010: Null_Object1_Null_Object_Cylinder1_001
+    100012: Null_Object1_Null_Object_Cylinder1_002
+    100014: Null_Object1_Null_Object_Cylinder1_003
+    100016: Null_Object1_Null_Object_Cylinder1_004
+    100018: Null_Object1_Null_Object_Cylinder_001
+    100020: Null_Object1_Null_Object_Cylinder_002
+    100022: Null_Object1_Null_Object_Cylinder_003
+    100024: Null_Object1_Null_Object_Cylinder_004
+    100026: Plane
+    100028: Plane_001
+    100030: Plane_002
+    100032: Plane_003
+    100034: Plane_004
+    100036: Plane_005
+    400000: //RootNode
+    400002: Cylinder
+    400004: Cylinder_001
+    400006: Null_Object1_Null_Object_Cylinder
+    400008: Null_Object1_Null_Object_Cylinder1
+    400010: Null_Object1_Null_Object_Cylinder1_001
+    400012: Null_Object1_Null_Object_Cylinder1_002
+    400014: Null_Object1_Null_Object_Cylinder1_003
+    400016: Null_Object1_Null_Object_Cylinder1_004
+    400018: Null_Object1_Null_Object_Cylinder_001
+    400020: Null_Object1_Null_Object_Cylinder_002
+    400022: Null_Object1_Null_Object_Cylinder_003
+    400024: Null_Object1_Null_Object_Cylinder_004
+    400026: Plane
+    400028: Plane_001
+    400030: Plane_002
+    400032: Plane_003
+    400034: Plane_004
+    400036: Plane_005
+    2100000: unnamed
+    2100002: Metal
+    2100004: Plastic
+    2100006: Material_003
+    2100008: Material_002
+    2100010: Material_008
+    2100012: Material_004
+    2100014: Material_005
+    2100016: Material_006
+    2100018: Plastic_001
+    2100020: Metal_001
+    2100022: Plastic_002
+    2100024: Metal_002
+    2100026: Plastic_003
+    2100028: Metal_003
+    2100030: Plastic_004
+    2100032: Metal_004
+    2300000: Cylinder
+    2300002: Cylinder_001
+    2300004: Null_Object1_Null_Object_Cylinder
+    2300006: Null_Object1_Null_Object_Cylinder1
+    2300008: Null_Object1_Null_Object_Cylinder1_001
+    2300010: Null_Object1_Null_Object_Cylinder1_002
+    2300012: Null_Object1_Null_Object_Cylinder1_003
+    2300014: Null_Object1_Null_Object_Cylinder1_004
+    2300016: Null_Object1_Null_Object_Cylinder_001
+    2300018: Null_Object1_Null_Object_Cylinder_002
+    2300020: Null_Object1_Null_Object_Cylinder_003
+    2300022: Null_Object1_Null_Object_Cylinder_004
+    2300024: Plane
+    2300026: Plane_001
+    2300028: Plane_002
+    2300030: Plane_003
+    2300032: Plane_004
+    2300034: Plane_005
+    3300000: Cylinder
+    3300002: Cylinder_001
+    3300004: Null_Object1_Null_Object_Cylinder
+    3300006: Null_Object1_Null_Object_Cylinder1
+    3300008: Null_Object1_Null_Object_Cylinder1_001
+    3300010: Null_Object1_Null_Object_Cylinder1_002
+    3300012: Null_Object1_Null_Object_Cylinder1_003
+    3300014: Null_Object1_Null_Object_Cylinder1_004
+    3300016: Null_Object1_Null_Object_Cylinder_001
+    3300018: Null_Object1_Null_Object_Cylinder_002
+    3300020: Null_Object1_Null_Object_Cylinder_003
+    3300022: Null_Object1_Null_Object_Cylinder_004
+    3300024: Plane
+    3300026: Plane_001
+    3300028: Plane_002
+    3300030: Plane_003
+    3300032: Plane_004
+    3300034: Plane_005
+    4300000: Cylinder
+    4300002: Null_Object1_Null_Object_Cylinder1
+    4300004: Null_Object1_Null_Object_Cylinder
+    4300006: Plane
+    4300008: Plane_001
+    4300010: Plane_002
+    4300012: Plane_003
+    4300014: Plane_004
+    4300016: Plane_005
+    4300018: Null_Object1_Null_Object_Cylinder_001
+    4300020: Null_Object1_Null_Object_Cylinder1_001
+    4300022: Null_Object1_Null_Object_Cylinder_002
+    4300024: Null_Object1_Null_Object_Cylinder1_002
+    4300026: Null_Object1_Null_Object_Cylinder_003
+    4300028: Null_Object1_Null_Object_Cylinder1_003
+    4300030: Null_Object1_Null_Object_Cylinder_004
+    4300032: Null_Object1_Null_Object_Cylinder1_004
+    4300034: Cylinder_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
